@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\bin\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\refint\TheDominionOfKings.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\TheDominionOfKings.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDominionOfKings\TheDominionOfKings\obj\Debug\net8.0\ref\TheDominionOfKings.dll

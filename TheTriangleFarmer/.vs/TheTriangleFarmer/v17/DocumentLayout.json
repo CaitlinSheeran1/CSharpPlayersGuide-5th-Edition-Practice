@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheTriangleFarmer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181AC367-35FB-4B7D-B3ED-5ED797D3D9A0}|TheTriangleFarmer\\TheTriangleFarmer.csproj|c:\\users\\caitl\\desktop\\c#playersguidepracticefolder\\thetrianglefarmer\\thetrianglefarmer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181AC367-35FB-4B7D-B3ED-5ED797D3D9A0}|TheTriangleFarmer\\TheTriangleFarmer.csproj|solutionrelative:thetrianglefarmer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheTriangleFarmer\\TheTriangleFarmer\\Program.cs",
+              "RelativeDocumentMoniker": "TheTriangleFarmer\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheTriangleFarmer\\TheTriangleFarmer\\Program.cs",
+              "RelativeToolTip": "TheTriangleFarmer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:00:14.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

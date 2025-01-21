@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\bin\Debug\net8.0\TheFourSistersAndTheDuckBear.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\bin\Debug\net8.0\TheFourSistersAndTheDuckBear.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\bin\Debug\net8.0\TheFourSistersAndTheDuckBear.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\bin\Debug\net8.0\TheFourSistersAndTheDuckBear.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\bin\Debug\net8.0\TheFourSistersAndTheDuckBear.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\refint\TheFourSistersAndTheDuckBear.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\TheFourSistersAndTheDuckBear.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheFourSistersAndTheDuckBear\TheFourSistersAndTheDuckBear\obj\Debug\net8.0\ref\TheFourSistersAndTheDuckBear.dll

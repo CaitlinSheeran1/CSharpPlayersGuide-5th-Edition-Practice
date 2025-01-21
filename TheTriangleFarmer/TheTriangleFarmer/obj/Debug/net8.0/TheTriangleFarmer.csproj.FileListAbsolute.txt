@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\bin\Debug\net8.0\TheTriangleFarmer.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\refint\TheTriangleFarmer.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\TheTriangleFarmer.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheTriangleFarmer\TheTriangleFarmer\obj\Debug\net8.0\ref\TheTriangleFarmer.dll

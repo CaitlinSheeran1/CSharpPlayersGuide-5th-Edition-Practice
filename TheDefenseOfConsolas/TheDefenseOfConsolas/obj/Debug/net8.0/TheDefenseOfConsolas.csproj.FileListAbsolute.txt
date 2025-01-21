@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\bin\Debug\net8.0\TheDefenseOfConsolas.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\refint\TheDefenseOfConsolas.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\TheDefenseOfConsolas.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheDefenseOfConsolas\TheDefenseOfConsolas\obj\Debug\net8.0\ref\TheDefenseOfConsolas.dll
