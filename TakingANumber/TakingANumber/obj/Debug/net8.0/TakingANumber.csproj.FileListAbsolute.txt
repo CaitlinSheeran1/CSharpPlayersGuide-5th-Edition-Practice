@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\bin\Debug\net8.0\TakingANumber.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\refint\TakingANumber.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\TakingANumber.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TakingANumber\TakingANumber\obj\Debug\net8.0\ref\TakingANumber.dll

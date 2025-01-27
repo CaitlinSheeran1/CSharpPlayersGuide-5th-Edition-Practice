@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\HuntingTheManticore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{636C4B26-01C5-42F2-8DCD-98282E988430}|HuntingTheManticore\\HuntingTheManticore.csproj|c:\\users\\caitl\\desktop\\c#playersguidepracticefolder\\huntingthemanticore\\huntingthemanticore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636C4B26-01C5-42F2-8DCD-98282E988430}|HuntingTheManticore\\HuntingTheManticore.csproj|solutionrelative:huntingthemanticore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\HuntingTheManticore\\HuntingTheManticore\\Program.cs",
+              "RelativeDocumentMoniker": "HuntingTheManticore\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\HuntingTheManticore\\HuntingTheManticore\\Program.cs",
+              "RelativeToolTip": "HuntingTheManticore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:02:01.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

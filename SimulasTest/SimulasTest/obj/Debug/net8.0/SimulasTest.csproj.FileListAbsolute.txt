@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\bin\Debug\net8.0\SimulasTest.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\bin\Debug\net8.0\SimulasTest.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\bin\Debug\net8.0\SimulasTest.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\bin\Debug\net8.0\SimulasTest.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\bin\Debug\net8.0\SimulasTest.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\refint\SimulasTest.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\SimulasTest.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\SimulasTest\SimulasTest\obj\Debug\net8.0\ref\SimulasTest.dll
