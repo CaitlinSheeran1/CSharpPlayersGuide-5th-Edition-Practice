@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\bin\Debug\net8.0\TheLawsOfFreach.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\refint\TheLawsOfFreach.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\TheLawsOfFreach.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheLawsOfFreach\TheLawsOfFreach\obj\Debug\net8.0\ref\TheLawsOfFreach.dll
