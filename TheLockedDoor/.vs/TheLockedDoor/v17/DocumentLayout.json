@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD19137-CF43-40D8-BB67-CBC9BE6285E0}|TheLockedDoor\\TheLockedDoor.csproj|c:\\users\\caitl\\desktop\\c#playersguidepracticefolder\\thelockeddoor\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD19137-CF43-40D8-BB67-CBC9BE6285E0}|TheLockedDoor\\TheLockedDoor.csproj|solutionrelative:thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\Program.cs",
+              "RelativeDocumentMoniker": "TheLockedDoor\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\Program.cs",
+              "RelativeToolTip": "TheLockedDoor\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:57:17.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
