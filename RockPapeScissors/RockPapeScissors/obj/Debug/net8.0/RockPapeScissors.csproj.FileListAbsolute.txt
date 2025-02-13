@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\bin\Debug\net8.0\RockPapeScissors.exe
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\bin\Debug\net8.0\RockPapeScissors.deps.json
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\bin\Debug\net8.0\RockPapeScissors.runtimeconfig.json
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\bin\Debug\net8.0\RockPapeScissors.dll
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\bin\Debug\net8.0\RockPapeScissors.pdb
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.dll
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\refint\RockPapeScissors.dll
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.pdb
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\RockPapeScissors.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RockPapeScissors\RockPapeScissors\obj\Debug\net8.0\ref\RockPapeScissors.dll
