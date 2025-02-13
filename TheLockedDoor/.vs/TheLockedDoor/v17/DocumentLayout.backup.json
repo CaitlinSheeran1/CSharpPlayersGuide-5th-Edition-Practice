@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\",
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFD19137-CF43-40D8-BB67-CBC9BE6285E0}|TheLockedDoor\\TheLockedDoor.csproj|c:\\users\\caitl\\desktop\\c#playersguidepracticefolder\\thelockeddoor\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFD19137-CF43-40D8-BB67-CBC9BE6285E0}|TheLockedDoor\\TheLockedDoor.csproj|c:\\users\\caitl\\documents\\github\\csharpplayersguide-5th-edition-practice\\thelockeddoor\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD19137-CF43-40D8-BB67-CBC9BE6285E0}|TheLockedDoor\\TheLockedDoor.csproj|solutionrelative:thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\Program.cs",
               "RelativeDocumentMoniker": "TheLockedDoor\\Program.cs",
-              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\Program.cs",
               "RelativeToolTip": "TheLockedDoor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T20:57:17.916Z",
               "EditorCaption": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj": {}
+    "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj": {
+    "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj",
+        "projectUniqueName": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj",
         "projectName": "TheLockedDoor",
-        "projectPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj",
+        "projectPath": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\TheLockedDoor.csproj",
         "packagesPath": "C:\\Users\\caitl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\TheLockedDoor\\TheLockedDoor\\obj\\",
+        "outputPath": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\TheLockedDoor\\TheLockedDoor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

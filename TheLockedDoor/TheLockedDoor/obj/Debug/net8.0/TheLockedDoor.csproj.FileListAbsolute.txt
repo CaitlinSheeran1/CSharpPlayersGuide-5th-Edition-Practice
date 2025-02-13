@@ -1,0 +1,15 @@
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.exe
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.deps.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.runtimeconfig.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfoInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfo.cs
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.sourcelink.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\refint\TheLockedDoor.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.genruntimeconfig.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLockedDoor\TheLockedDoor\obj\Debug\net8.0\ref\TheLockedDoor.dll
