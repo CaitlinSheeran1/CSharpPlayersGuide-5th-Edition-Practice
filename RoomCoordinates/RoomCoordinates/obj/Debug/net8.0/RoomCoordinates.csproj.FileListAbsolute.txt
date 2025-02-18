@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.exe
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.deps.json
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.runtimeconfig.json
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.dll
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.pdb
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.dll
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\refint\RoomCoordinates.dll
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.pdb
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#PLayersGuideFolder\RoomCoordinates\RoomCoordinates\obj\Debug\net8.0\ref\RoomCoordinates.dll
