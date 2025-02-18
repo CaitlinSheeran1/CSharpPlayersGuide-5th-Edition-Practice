@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\c#Folder\\ReturnWordCount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189E8F29-889F-4912-B551-6E3F4A784B7A}|ReturnWordCount\\ReturnWordCount.csproj|c:\\users\\caitl\\desktop\\c#folder\\returnwordcount\\returnwordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189E8F29-889F-4912-B551-6E3F4A784B7A}|ReturnWordCount\\ReturnWordCount.csproj|solutionrelative:returnwordcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\c#Folder\\ReturnWordCount\\ReturnWordCount\\Program.cs",
+              "RelativeDocumentMoniker": "ReturnWordCount\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\c#Folder\\ReturnWordCount\\ReturnWordCount\\Program.cs",
+              "RelativeToolTip": "ReturnWordCount\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:51:51.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

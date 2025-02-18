@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\bin\Debug\net8.0\NewLetter.exe
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\bin\Debug\net8.0\NewLetter.deps.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\bin\Debug\net8.0\NewLetter.runtimeconfig.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\bin\Debug\net8.0\NewLetter.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\bin\Debug\net8.0\NewLetter.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\refint\NewLetter.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\NewLetter.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\NewLetter\NewLetter\obj\Debug\net8.0\ref\NewLetter.dll

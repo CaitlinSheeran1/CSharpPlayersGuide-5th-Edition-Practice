@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\bin\Debug\net8.0\TheOldRobot.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\bin\Debug\net8.0\TheOldRobot.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\bin\Debug\net8.0\TheOldRobot.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\bin\Debug\net8.0\TheOldRobot.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\bin\Debug\net8.0\TheOldRobot.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\refint\TheOldRobot.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\TheOldRobot.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheOldRobot\TheOldRobot\obj\Debug\net8.0\ref\TheOldRobot.dll

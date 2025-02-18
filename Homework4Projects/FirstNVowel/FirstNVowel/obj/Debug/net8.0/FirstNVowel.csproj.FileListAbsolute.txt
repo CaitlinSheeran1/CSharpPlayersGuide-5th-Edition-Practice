@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\bin\Debug\net8.0\FirstNVowel.exe
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\bin\Debug\net8.0\FirstNVowel.deps.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\bin\Debug\net8.0\FirstNVowel.runtimeconfig.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\bin\Debug\net8.0\FirstNVowel.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\bin\Debug\net8.0\FirstNVowel.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\refint\FirstNVowel.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\FirstNVowel.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstNVowel\FirstNVowel\obj\Debug\net8.0\ref\FirstNVowel.dll
