@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\bin\Debug\net8.0\ReturnWordCount.exe
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\bin\Debug\net8.0\ReturnWordCount.deps.json
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\bin\Debug\net8.0\ReturnWordCount.runtimeconfig.json
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\bin\Debug\net8.0\ReturnWordCount.dll
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\bin\Debug\net8.0\ReturnWordCount.pdb
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.dll
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\refint\ReturnWordCount.dll
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.pdb
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ReturnWordCount.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#Folder\ReturnWordCount\ReturnWordCount\obj\Debug\net8.0\ref\ReturnWordCount.dll

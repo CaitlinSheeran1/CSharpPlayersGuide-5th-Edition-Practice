@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.exe
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.deps.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.runtimeconfig.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\refint\TrueOrFalse.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\TrueOrFalse\TrueOrFalse\obj\Debug\net8.0\ref\TrueOrFalse.dll

@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\bin\Debug\net8.0\FirstAndLastCharSwapped.exe
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\bin\Debug\net8.0\FirstAndLastCharSwapped.deps.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\bin\Debug\net8.0\FirstAndLastCharSwapped.runtimeconfig.json
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\bin\Debug\net8.0\FirstAndLastCharSwapped.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\bin\Debug\net8.0\FirstAndLastCharSwapped.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.AssemblyInfo.cs
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\refint\FirstAndLastCharSwapped.dll
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.pdb
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\FirstAndLastCharSwapped.genruntimeconfig.cache
+C:\Users\caitl\Desktop\c#Folder\Homework4Projects\FirstAndLastCharSwapped\FirstAndLastCharSwapped\obj\Debug\net8.0\ref\FirstAndLastCharSwapped.dll
