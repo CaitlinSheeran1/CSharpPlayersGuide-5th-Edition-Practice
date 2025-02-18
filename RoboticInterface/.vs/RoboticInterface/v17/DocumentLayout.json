@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\RoboticInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E3794-F2F9-41B6-AD69-45CE0FBCA9B2}|RoboticInterface\\RoboticInterface.csproj|c:\\users\\caitl\\desktop\\c#playersguidepracticefolder\\roboticinterface\\roboticinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E3794-F2F9-41B6-AD69-45CE0FBCA9B2}|RoboticInterface\\RoboticInterface.csproj|solutionrelative:roboticinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\RoboticInterface\\RoboticInterface\\Program.cs",
+              "RelativeDocumentMoniker": "RoboticInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\C#PlayersGuidePracticeFolder\\RoboticInterface\\RoboticInterface\\Program.cs*",
+              "RelativeToolTip": "RoboticInterface\\Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T04:27:28.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
