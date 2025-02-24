@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.exe
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.deps.json
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.runtimeconfig.json
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.dll
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\bin\Debug\net8.0\VehiclesAndCars.pdb
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.AssemblyInfo.cs
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.dll
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\refint\VehiclesAndCars.dll
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.pdb
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\VehiclesAndCars.genruntimeconfig.cache
+C:\Users\caitl\Desktop\Homework5\VehiclesAndCars\VehiclesAndCars\obj\Debug\net8.0\ref\VehiclesAndCars.dll

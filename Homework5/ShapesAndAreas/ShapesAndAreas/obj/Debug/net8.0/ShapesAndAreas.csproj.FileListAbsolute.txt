@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.exe
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.deps.json
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.runtimeconfig.json
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.dll
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\bin\Debug\net8.0\ShapesAndAreas.pdb
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.AssemblyInfo.cs
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.dll
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\refint\ShapesAndAreas.dll
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.pdb
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ShapesAndAreas.genruntimeconfig.cache
+C:\Users\caitl\Desktop\Homework5\ShapesAndAreas\ShapesAndAreas\obj\Debug\net8.0\ref\ShapesAndAreas.dll

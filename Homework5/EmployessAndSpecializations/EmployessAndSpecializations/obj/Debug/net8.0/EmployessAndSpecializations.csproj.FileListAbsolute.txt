@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\bin\Debug\net8.0\EmployessAndSpecializations.exe
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\bin\Debug\net8.0\EmployessAndSpecializations.deps.json
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\bin\Debug\net8.0\EmployessAndSpecializations.runtimeconfig.json
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\bin\Debug\net8.0\EmployessAndSpecializations.dll
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\bin\Debug\net8.0\EmployessAndSpecializations.pdb
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.AssemblyInfo.cs
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.dll
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\refint\EmployessAndSpecializations.dll
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.pdb
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\EmployessAndSpecializations.genruntimeconfig.cache
+C:\Users\caitl\Desktop\Homework5\EmployessAndSpecializations\EmployessAndSpecializations\obj\Debug\net8.0\ref\EmployessAndSpecializations.dll

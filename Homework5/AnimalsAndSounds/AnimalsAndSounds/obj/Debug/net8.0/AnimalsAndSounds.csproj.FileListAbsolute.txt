@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.exe
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.deps.json
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.runtimeconfig.json
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.dll
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\bin\Debug\net8.0\AnimalsAndSounds.pdb
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.AssemblyInfo.cs
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.dll
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\refint\AnimalsAndSounds.dll
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.pdb
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\AnimalsAndSounds.genruntimeconfig.cache
+C:\Users\caitl\Desktop\Homework5\AnimalsAndSounds\AnimalsAndSounds\obj\Debug\net8.0\ref\AnimalsAndSounds.dll

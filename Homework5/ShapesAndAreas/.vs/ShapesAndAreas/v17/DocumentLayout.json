@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\Homework5\\ShapesAndAreas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3402670D-0B97-41BD-BE77-9939C777CFC5}|ShapesAndAreas\\ShapesAndAreas.csproj|c:\\users\\caitl\\desktop\\homework5\\shapesandareas\\shapesandareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3402670D-0B97-41BD-BE77-9939C777CFC5}|ShapesAndAreas\\ShapesAndAreas.csproj|solutionrelative:shapesandareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\Homework5\\ShapesAndAreas\\ShapesAndAreas\\Program.cs",
+              "RelativeDocumentMoniker": "ShapesAndAreas\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Desktop\\Homework5\\ShapesAndAreas\\ShapesAndAreas\\Program.cs",
+              "RelativeToolTip": "ShapesAndAreas\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwGAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:56:41.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
