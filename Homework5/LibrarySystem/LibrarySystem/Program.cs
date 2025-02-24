@@ -1,72 +1,110 @@
 ﻿// Caitlin Sheeran
 // 2/24/2025
 
-//1.Create a base class called Book with:
-//o Properties for Title, Author, and YearPublished.
-//o	A constructor to initialize these properties.
-//o	An overridden ToString() method that returns "Title by Author (YearPublished)".
-
-//2.	Create two subclasses, EBook and PrintedBook, that inherit from Book.
-//o	EBook should have an additional property FileSizeMB.
-//o	PrintedBook should have an additional property PageCount.
-//o	Each subclass should override ToString() so that EBook includes the file size and PrintedBook includes the number of pages.
-
-
 namespace LibrarySystem
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            EBook ebook1 = new EBook("Harry Potter and the Half-Blood Price", "J.K. Rowling", 2005, 160);
+            PrintedBook printedBook1 = new PrintedBook("Game of Thrones", "George R.R. Martin", 1996, 694);
+
+            Console.WriteLine(ebook1);
+            Console.WriteLine(printedBook1);
+
            
         }
     }
-    public abstract class Animal
+    public abstract class Book
     {
-        private string name = "n/a";
+        private string title = "n/a";
+        private string author = "n/a";
+        private int yearPublished = -1;
 
-        public string Name
+        public string Title
         {
-            get { return this.name; }
-            set { this.name = value; }
+            get { return this.title; }
+            set { this.title = value; }
         }
-        public Animal(string aName)
+        public string Author
         {
-            this.name = aName;
+            get { return this.author; }
+            set { this.author = value; }
         }
-        public virtual string MakeSound()
+        public int YearPublished
         {
-            return "Some generic animal sound";
+            get { return this.yearPublished; }
+            set { this.yearPublished = value; }
         }
+
+
+
+        public Book(string aTitle, string aAuthor, int aYearPublished)
+        {
+            this.Title = aTitle;
+            this.Author = aAuthor;
+            this.YearPublished = aYearPublished;
+        }
+
+
+
         public override string ToString()
         {
             string msg = "";
-            msg += $"Name: {this.Name}\t";
-            msg += $"Sound: {MakeSound()}\t";
+            msg += $"{this.Title} written by {this.Author} published in {this.YearPublished}";
             return msg;
         }
     }
 
 
-    public class Dog : Animal
+    public class EBook : Book
     {
-        public Dog(string aName) : base(aName)
+        private double fileSizeMB = -1.0;
+
+        public double FileSizeMB
         {
+            get { return this.fileSizeMB; }
+            set { this.fileSizeMB = value; }
         }
 
-        public override string MakeSound()
+        public EBook(string aTitle, string aAuthor, int aYearPublished, double aFileSizeMN) : base(aTitle, aAuthor, aYearPublished)
         {
-            return "Bark";
+            this.fileSizeMB = aFileSizeMN;
         }
+
+
         public override string ToString()
         {
             string msg = "";
-            msg += $"Name: {this.Name}\t";
-            msg += $"Sound: {MakeSound()}\t";
+            msg += $"{this.Title} written by {this.Author} published in {this.YearPublished}\n File Size: {this.FileSizeMB}mb\n";
             return msg;
         }
     }
-    
+    public class PrintedBook : Book
+    {
+        private int pageCount = -1;
+
+        public int PageCount
+        {
+            get { return this.pageCount; }
+            set { this.pageCount = value;  }
+        }
+
+        public PrintedBook(string aTitle, string aAuthor, int aYearPublished, int aPageCount) : base(aTitle, aAuthor, aYearPublished)
+        {
+            this.pageCount = aPageCount;
+        }
+
+
+        public override string ToString()
+        {
+            string msg = "";
+            msg += $"{this.Title} written by {this.Author} published in {this.YearPublished}\n Page Count: {this.PageCount}\n";
+            return msg;
+        }
+    }
+
 
 
 

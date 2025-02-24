@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caitl\\Desktop\\Homework5\\LibrarySystem\\",
+  "WorkspaceRootPath": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\Homework5\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C1224D-DECD-4120-9FCC-431BAFA41CD7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\caitl\\desktop\\homework5\\librarysystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4C1224D-DECD-4120-9FCC-431BAFA41CD7}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\caitl\\documents\\github\\csharpplayersguide-5th-edition-practice\\homework5\\librarysystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4C1224D-DECD-4120-9FCC-431BAFA41CD7}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\caitl\\Desktop\\Homework5\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\Homework5\\LibrarySystem\\LibrarySystem\\Program.cs",
               "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
-              "ToolTip": "C:\\Users\\caitl\\Desktop\\Homework5\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\caitl\\Documents\\GitHub\\CSharpPlayersGuide-5th-Edition-Practice\\Homework5\\LibrarySystem\\LibrarySystem\\Program.cs",
               "RelativeToolTip": "LibrarySystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T17:42:48.59Z",
               "EditorCaption": ""
