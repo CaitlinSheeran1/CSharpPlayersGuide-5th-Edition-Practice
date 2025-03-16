@@ -1,0 +1,14 @@
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\bin\Debug\net8.0\TheRobotPilot.exe
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\bin\Debug\net8.0\TheRobotPilot.deps.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\bin\Debug\net8.0\TheRobotPilot.runtimeconfig.json
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\bin\Debug\net8.0\TheRobotPilot.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\bin\Debug\net8.0\TheRobotPilot.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.AssemblyInfoInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.AssemblyInfo.cs
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\refint\TheRobotPilot.dll
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.pdb
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\TheRobotPilot.genruntimeconfig.cache
+C:\Users\caitl\Desktop\C#PlayersGuidePracticeFolder\TheRobotPilot\TheRobotPilot\obj\Debug\net8.0\ref\TheRobotPilot.dll
