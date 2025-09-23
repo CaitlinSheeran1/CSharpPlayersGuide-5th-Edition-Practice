@@ -1,0 +1,15 @@
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\bin\Debug\net8.0\ExeptisGame.exe
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\bin\Debug\net8.0\ExeptisGame.deps.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\bin\Debug\net8.0\ExeptisGame.runtimeconfig.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\bin\Debug\net8.0\ExeptisGame.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\bin\Debug\net8.0\ExeptisGame.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.AssemblyInfoInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.AssemblyInfo.cs
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.sourcelink.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\refint\ExeptisGame.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ExeptisGame.genruntimeconfig.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\ExeptisGame\ExeptisGame\obj\Debug\net8.0\ref\ExeptisGame.dll
