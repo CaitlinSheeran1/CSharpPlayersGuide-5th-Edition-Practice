@@ -1,0 +1,15 @@
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\bin\Debug\net8.0\TheLongGame.exe
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\bin\Debug\net8.0\TheLongGame.deps.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\bin\Debug\net8.0\TheLongGame.runtimeconfig.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\bin\Debug\net8.0\TheLongGame.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\bin\Debug\net8.0\TheLongGame.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.AssemblyInfoInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.AssemblyInfo.cs
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.sourcelink.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\refint\TheLongGame.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\TheLongGame.genruntimeconfig.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\TheLongGame\TheLongGame\obj\Debug\net8.0\ref\TheLongGame.dll
