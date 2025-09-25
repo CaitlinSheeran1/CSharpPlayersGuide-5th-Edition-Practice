@@ -1,0 +1,15 @@
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\bin\Debug\net8.0\CharBerryTrees.exe
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\bin\Debug\net8.0\CharBerryTrees.deps.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\bin\Debug\net8.0\CharBerryTrees.runtimeconfig.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\bin\Debug\net8.0\CharBerryTrees.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\bin\Debug\net8.0\CharBerryTrees.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.AssemblyInfoInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.AssemblyInfo.cs
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.csproj.CoreCompileInputs.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.sourcelink.json
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\refint\CharBerryTrees.dll
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.pdb
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\CharBerryTrees.genruntimeconfig.cache
+C:\Users\caitl\Documents\GitHub\CSharpPlayersGuide-5th-Edition-Practice\CharBerryTrees\CharBerryTrees\obj\Debug\net8.0\ref\CharBerryTrees.dll
